@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xtaycation"
+title                    : "MonkatForty"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Xuanken Tay"
-description              : "My personal blog. I write about software development, coding exercises, cool tips and tricks and notes for learning & development purposes."
-url                      : "https://yaeba.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Dipannita"
+description              : "My personal blog. "
+url                      : "https://testmf.vercel.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "yaeba/yaeba.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -83,11 +83,13 @@ social:
 
 # Site Author
 author:
-  name             : "Xuanken Tay"
-  avatar           : "/assets/images/profile-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer who likes statistics, machine learning, DevOps and the cloud"
-  location         : "Sydney, AU"
-  email            : "xuankentay@gmail.com"
+  name             : "Dipannita"
+  avatar           : "/assets/images/dipannita.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I have my own comfortable world where I keep connecting dots and enjoy discovering life at my own sweet pace. My love for the pen and paper has long been converted into blogs for a few websites. Some stories and poems have been published between covers too. 
+                      So, finally, I decided to own one myself, a digital memoir where I will share stories from my world. My friends did push me, I must add. My family, friends, books (fiction and poetry), paintings, food and travel make my world. My world also comprises of all things supernatural (from Shiv Thakur to Mamdo Bhoot). 
+                      These are the things you will find at Monkatforty.com."
+  location         : "Kolkata, IN"
+  email            : "monkatforty@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,6 +1,6 @@
 ---
 title: "Hemis Monastery of Ladakh and the Hemis Festival"
-excerpt: "How to prepare for the 2-hour, online, proctored, performance-based CKA exam."
+excerpt: "Excerpt for a festival"
 tags: Festival
 header:
   overlay_image: /assets/images/hemis.jpg
