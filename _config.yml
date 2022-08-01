@@ -270,21 +270,7 @@ defaults:
     values:
       toc_sticky: true
       categories: blog
-  # _posts/exercises
-  - scope:
-      path: "_posts/exercises"
-      type: posts
-    values:
-      classes: wide
-      usemathjax: true
-      categories: exercises
-  # _posts/projects
-  - scope:
-      path: "_posts/projects"
-      type: posts
-    values:
-      classes: wide
-      categories: projects
+ 
   # _pages
   - scope:
       path: "_pages"
