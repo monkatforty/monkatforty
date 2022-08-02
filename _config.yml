@@ -35,6 +35,7 @@ staticman:
   branch               : "master"
   endpoint             : "https://staticmonk.herokuapp.com/v2/entry/sealedhermit/testmf/master/comments"
 reCaptcha:
+  enabled: false
   siteKey                :
   secret                 :
 atom_feed:
