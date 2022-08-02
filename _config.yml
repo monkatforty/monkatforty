@@ -29,11 +29,11 @@ logo                     : "/assets/images/logo.png" # path of logo image to dis
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 100
-comments:
+comments                 : true
   
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+staticman:
+  branch               : "master"
+  endpoint             : "https://staticmonk.herokuapp.com/v2/entry/sealedhermit/testmf/master/comments"
 reCaptcha:
   siteKey                :
   secret                 :

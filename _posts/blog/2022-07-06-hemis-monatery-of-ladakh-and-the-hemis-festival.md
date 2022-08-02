@@ -11,6 +11,7 @@ header:
       #url: https://www.credly.com/badges/1d6d5be2-bea5-4cf8-9bb9-de42778f1239/public_url
 classes: wide
 featured: true
+comments: true
 
 gallery1:
   - url: /assets/album/hemis/hemisfirst/IMG_6957.jpg
