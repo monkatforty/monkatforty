@@ -48,9 +48,9 @@ layout: default
       <div id="cusdis_thread"
       data-host="https://cusdis.com"
       data-app-id="9461b03d-2d2d-4f83-bde7-61b1455c3645"
-      data-page-id="{{ PAGE_ID }}"
-      data-page-url="{{ PAGE_URL }}"
-      data-page-title="{{ PAGE_TITLE }}"
+      data-page-id="{{ page.path }}"
+      data-page-url="{{ site.url }}/{{ page.path }}"
+      data-page-title="{{ page.title }}"
     ></div>
     <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
       <footer class="page__meta">
