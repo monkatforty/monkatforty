@@ -45,7 +45,14 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
+      <div id="cusdis_thread"
+      data-host="https://cusdis.com"
+      data-app-id="9461b03d-2d2d-4f83-bde7-61b1455c3645"
+      data-page-id="{{ PAGE_ID }}"
+      data-page-url="{{ PAGE_URL }}"
+      data-page-title="{{ PAGE_TITLE }}"
+    ></div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
