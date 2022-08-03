@@ -1,4 +1,4 @@
-I"ý
+I"s
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -12,9 +12,11 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/about/">About</a>
+              <a href="/tags/festival/">Festivals</a>
             </li><li class="masthead__menu-item">
-              <a href="/blog/">Blog</a>
+              <a href="/tags/travel/">Travel</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/books/">Books</a>
             </li></ul>
         
         <button class="search__toggle" type="button">

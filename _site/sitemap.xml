@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/blog/growing-up-with-the-adventures-of-tintin/</loc>
+<lastmod>2022-01-10T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/trip-to-sittong-an-offbeat-destination-northbengal-himalayan-hamlet/</loc>
 <lastmod>2022-03-29T00:00:00+05:30</lastmod>
 </url>
@@ -29,6 +33,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/books/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags/travel/</loc>

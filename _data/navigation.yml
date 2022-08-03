@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
   
+  
+  - title: "Festivals"
+    url: /tags/festival/
+  - title: "Travel"
+    url: /tags/travel/ 
+  - title: "Books"
+    url: /tags/books/    
+       
