@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dipannita"
 description              : "My personal blog. "
-url                      : "https://testmf.vercel.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://monkatforty.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -53,7 +53,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "EZ55zmHr7DuLBGsjr_AWErL_oi8V-N_2td1CiRtAKtE"
+google_site_verification : ""
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -78,7 +78,7 @@ social:
 #analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-6HM48C4R70"
+    tracking_id          : ""
     anonymize_ip         : # true, false (default)
 
 
@@ -94,7 +94,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your@email.com"
+      # url: "mailto:monkatforty@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -106,10 +106,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yaeba"
+      url: "https://github.com/monkatforty"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xuanken-t-485a8b171"
+      url: "https://www.linkedin.com/in/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -125,10 +125,9 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yaeba"
+      url: "https://github.com/monkatforty"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xuanken-t-485a8b171"
+      icon: "fab fa-fw fa-linkedin"xuanken-t-485a8b171"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
