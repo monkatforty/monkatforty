@@ -45,6 +45,15 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+     
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+      <br style = “line-height:100;”>
       <div id="cusdis_thread"
       data-host="https://cusdis.com"
       data-app-id="4dad575a-b3d8-4395-a6dc-6327dcc5e5c0"
@@ -53,13 +62,6 @@ layout: default
       data-page-title="{{ page.title }}"
     ></div>
     <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-      <footer class="page__meta">
-        {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-        {% endif %}
-        {% include page__taxonomy.html %}
-        {% include page__date.html %}
-      </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
