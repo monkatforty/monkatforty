@@ -1,6 +1,6 @@
 ---
 title: "Trip to Sittong, an Offbeat Destination"
-excerpt: "this is a placeholder" 
+excerpt: "Travel" 
 tags: Travel
 header:
   overlay_image: /assets/images/sittong.jpg

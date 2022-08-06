@@ -45,9 +45,9 @@ search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : NJT68DC704 # YOUR_APPLICATION_ID
+  application_id         : 43WEUZQ837 # YOUR_APPLICATION_ID
   index_name             : posts # YOUR_INDEX_NAME
-  search_only_api_key    : ff29bc3fcf2d0645eee93843d0be1c5d # YOUR_SEARCH_ONLY_API_KEY
+  search_only_api_key    : 517f6be783dda8fedef72e0f7e3611c9 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
@@ -126,8 +126,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/monkatforty"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"xuanken-t-485a8b171"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

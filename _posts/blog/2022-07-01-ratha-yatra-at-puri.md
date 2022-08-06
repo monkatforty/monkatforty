@@ -1,7 +1,7 @@
 ---
 
 title: "The Rathas/Chariots of Jagannath’s Chariot Parade/ Ratha Yatra at Puri"
-excerpt: "this is a placeholder" 
+excerpt: "Festival" 
 tags: Festival
 header:
   overlay_image: /assets/images/jagannaths-1.jpg

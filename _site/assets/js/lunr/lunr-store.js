@@ -5,6 +5,12 @@ var store = [{
         "url": "/blog/growing-up-with-the-adventures-of-tintin/",
         "teaser": "/assets/images/Tintin-Forever.jpg"
       },{
+        "title": "World Peace Pagodas in India",
+        "excerpt":"In 1947, Japanese Buddhist Monk, Nichidatsu Fuji, the founder of Nipponzan Myohoji, a Neo-Buddhist Organisation devised the plan of constructing Peace Pagodas all over the world. He was highly influenced by Mahatma Gandhi. The pagodas were means of promoting peace and also a way of honouring and remembering those who...","categories": ["blog"],
+        "tags": ["philosophy"],
+        "url": "/blog/world-peace-pagodas-in-India/",
+        "teaser": "/assets/images/peace.jpg"
+      },{
         "title": "Trip to Sittong, an Offbeat Destination",
         "excerpt":"This Holi I made a trip to Sittong, an Offbeat Destination near Darjeeling, with my Mom. Just a long weekend (3 days) was enough. Yet during such a short trip we enjoyed almost all the things to see in Sittong, soaking into the unadulterated nature’s bliss. Haven’t you heard of...","categories": ["blog"],
         "tags": ["Travel"],

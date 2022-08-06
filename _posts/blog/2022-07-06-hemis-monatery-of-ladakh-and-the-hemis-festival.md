@@ -1,6 +1,6 @@
 ---
 title: "Hemis Monastery of Ladakh and the Hemis Festival"
-excerpt: "Excerpt for a festival"
+excerpt: "Festival"
 tags: Festival
 header:
   overlay_image: /assets/images/hemis.jpg

@@ -1,7 +1,7 @@
 ---
 
 title: Growing up with ‘The Adventures of Tintin’
-excerpt: "this is a placeholder" 
+excerpt: "Books" 
 tags: books
 header:
   overlay_image: /assets/images/Tintin-Forever.jpg
