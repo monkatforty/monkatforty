@@ -79,8 +79,18 @@ gallery4:
   image_path: "/assets/album/photo.jpg"
 - url: "/assets/album/img_1777.jpg"
   image_path: "/assets/album/img_1777.jpg"
-gallery5: []
-gallery6: []
+gallery5:
+- url: "/assets/album/lassi.jpg"
+  image_path: "/assets/album/lassi.jpg"
+- url: "/assets/album/amritsari-kulcha.jpg"
+  image_path: "/assets/album/amritsari-kulcha.jpg"
+gallery6:
+- url: "/assets/album/jo-bole-so-nihal.jpg"
+  image_path: "/assets/album/jo-bole-so-nihal.jpg"
+- url: "/assets/album/juttis.jpg"
+  image_path: "/assets/album/juttis.jpg"
+- url: "/assets/album/phulkari.jpg"
+  image_path: "/assets/album/phulkari.jpg"
 gallery7: []
 gallery8: []
 text_area: ''
