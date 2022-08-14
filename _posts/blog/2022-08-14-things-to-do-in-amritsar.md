@@ -3,98 +3,153 @@ title: Things to do in Amritsar
 excerpt: Travel
 tags: Travel
 header:
-  overlay_image: "/assets/album/header.jpg"
+  overlay_image: "/assets/images/amritsar.jpg"
   overlay_filter: 0.7
-  teaser: "/assets/album/header-1.jpg"
+  teaser: "/assets/images/amritsar.jpg"
 classes: wide
 featured: false
 comments: true
-gallery1:
-- url: "/assets/album/maharaja_ranjit_singh_chowk-amritsar.jpg"
-  image_path: "/assets/album/maharaja_ranjit_singh_chowk-amritsar.jpg"
-gallery2:
-- url: "/assets/album/bullet-marks-3.JPG"
-  image_path: "/assets/album/bullet-marks-3.JPG"
-- url: "/assets/album/the-martyr-s-well.JPG"
-  image_path: "/assets/album/the-martyr-s-well.JPG"
-- url: "/assets/album/bullet-marks-2.JPG"
-  image_path: "/assets/album/bullet-marks-2.JPG"
-- url: "/assets/album/bullet-marks.JPG"
-  image_path: "/assets/album/bullet-marks.JPG"
-- url: "/assets/album/memorial-park.JPG"
-  image_path: "/assets/album/memorial-park.JPG"
-- url: "/assets/album/new-museum.JPG"
-  image_path: "/assets/album/new-museum.JPG"
-- url: "/assets/album/amar-jyot-statue.JPG"
-  image_path: "/assets/album/amar-jyot-statue.JPG"
-- url: "/assets/album/martyr-s-memorial.JPG"
-  image_path: "/assets/album/martyr-s-memorial.JPG"
-- url: "/assets/album/jallianwala-sardar-udham-singh.jpg"
-  image_path: "/assets/album/jallianwala-sardar-udham-singh.jpg"
-- url: "/assets/album/flag.jpg"
-  image_path: "/assets/album/flag.jpg"
-gallery3:
-- url: "/assets/album/img_1707.jpg"
-  image_path: "/assets/album/img_1707.jpg"
-- url: "/assets/album/img_1712.jpg"
-  image_path: "/assets/album/img_1712.jpg"
-- url: "/assets/album/img_1704.jpg"
-  image_path: "/assets/album/img_1704.jpg"
-- url: "/assets/album/img_1731.jpg"
-  image_path: "/assets/album/img_1731.jpg"
-- url: "/assets/album/img_1752.jpg"
-  image_path: "/assets/album/img_1752.jpg"
-- url: "/assets/album/img_1725.jpg"
-  image_path: "/assets/album/img_1725.jpg"
-- url: "/assets/album/img_1709.jpg"
-  image_path: "/assets/album/img_1709.jpg"
-- url: "/assets/album/img_1747.jpg"
-  image_path: "/assets/album/img_1747.jpg"
-- url: "/assets/album/img_1722.jpg"
-  image_path: "/assets/album/img_1722.jpg"
-- url: "/assets/album/img_1757.jpg"
-  image_path: "/assets/album/img_1757.jpg"
-- url: "/assets/album/group.jpg"
-  image_path: "/assets/album/group-1.jpg"
-gallery4:
-- url: "/assets/album/kadha-prasad.jpg"
-  image_path: "/assets/album/kadha-prasad.jpg"
-- url: "/assets/album/langar.jpg"
-  image_path: "/assets/album/langar.jpg"
-- url: "/assets/album/langar-cooking.jpg"
-  image_path: "/assets/album/langar-cooking.jpg"
-- url: "/assets/album/img_1769.jpg"
-  image_path: "/assets/album/img_1769.jpg"
-- url: "/assets/album/img_1770.jpg"
-  image_path: "/assets/album/img_1770.jpg"
-- url: "/assets/album/img_1774.jpg"
-  image_path: "/assets/album/img_1774.jpg"
-- url: "/assets/album/img_1776.jpg"
-  image_path: "/assets/album/img_1776.jpg"
-- url: "/assets/album/img_1802.jpg"
-  image_path: "/assets/album/img_1802.jpg"
-- url: "/assets/album/img_1771.jpg"
-  image_path: "/assets/album/img_1771.jpg"
-- url: "/assets/album/photo.jpg"
-  image_path: "/assets/album/photo.jpg"
-- url: "/assets/album/img_1777.jpg"
-  image_path: "/assets/album/img_1777.jpg"
-gallery5:
-- url: "/assets/album/lassi.jpg"
-  image_path: "/assets/album/lassi.jpg"
-- url: "/assets/album/amritsari-kulcha.jpg"
-  image_path: "/assets/album/amritsari-kulcha.jpg"
-gallery6:
-- url: "/assets/album/jo-bole-so-nihal.jpg"
-  image_path: "/assets/album/jo-bole-so-nihal.jpg"
-- url: "/assets/album/juttis.jpg"
-  image_path: "/assets/album/juttis.jpg"
-- url: "/assets/album/phulkari.jpg"
-  image_path: "/assets/album/phulkari.jpg"
-gallery7: []
-gallery8: []
-text_area: ''
 
+gallery1:
+  - url: /assets/album/amritsar/amritsar1/amritsar11.jpg
+    image_path: /assets/album/amritsar/amritsar1/amritsar11.jpg
+    alt: "Maharaja Ranjit Singh Chowk,Amritsar"
+    title: "Maharaja Ranjit Singh Chowk,Amritsar"
+gallery2:
+  - url: /assets/album/amritsar/amritsar2/amritsar21.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar21.jpg
+    alt: "bullet marks 1"
+    title: "bullet marks 1"
+  - url: /assets/album/amritsar/amritsar2/amritsar22.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar22.jpg
+    alt: "bullet marks 2"
+    title: "bullet marks 2"    
+  - url: /assets/album/amritsar/amritsar2/amritsar23.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar23.jpg
+    alt: "bullet marks 3"
+    title: "bullet marks 3"   
+  - url: /assets/album/amritsar/amritsar2/amritsar24.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar24.jpg
+    alt: "Memorial Park"
+    title: "Memorial Park"   
+  - url: /assets/album/amritsar/amritsar2/amritsar25.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar25.jpg
+    alt: "New Museum"
+    title: "New Museum"
+  - url: /assets/album/amritsar/amritsar2/amritsar26.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar26.jpg
+    alt: "Amar Jyot Statue"
+    title: "Amar Jyot Statue"     
+  - url: /assets/album/amritsar/amritsar2/amritsar27.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar27.jpg
+    alt: "Martyr's Memorial"
+    title: "Martyr's Memorial"
+  - url: /assets/album/amritsar/amritsar2/amritsar28.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar28.jpg
+    alt: "Jallianwala-Sardar Udham Singh"
+    title: "Jallianwala-Sardar Udham Singh"
+  - url: /assets/album/amritsar/amritsar2/amritsar28.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar28.jpg
+    alt: "Jallianwala-Sardar Udham Singh"
+    title: "Jallianwala-Sardar Udham Singh"
+  - url: /assets/album/amritsar/amritsar2/amritsar29.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar29.jpg
+    alt: "Flag"
+    title: "Flag"  
+  - url: /assets/album/amritsar/amritsar2/amritsar20.jpg
+    image_path: /assets/album/amritsar/amritsar2/amritsar20.jpg
+    alt: "The Martyr's Well"
+    title: "The Martyr's Well"  
+    
+gallery3:
+  - url: /assets/album/amritsar/amritsar3/group.jpg
+    image_path: /assets/album/amritsar/amritsar3/group.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1757.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1757.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1722.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1722.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1747.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1747.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1709.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1709.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1725.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1725.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1752.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1752.jpg
+  - url: /assets/album/amritsar/amritsar3/IMG_1731.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1731.jpg 
+  - url: /assets/album/amritsar/amritsar3/IMG_1704.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1704.jpg
+  - url: /assets/album/amritsar/amritsar3/IMG_1712.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1712.jpg
+  - url: /assets/album/amritsar/amritsar3/IMG_1707.jpg
+    image_path: /assets/album/amritsar/amritsar3/IMG_1707.jpg  
+    
+gallery4:
+  - url: /assets/album/amritsar/amritsar4/amritsar41.jpg
+    image_path: /assets/album/amritsar/amritsar4/amritsar41.jpg
+    alt: "Langar Cooking"
+    title: "Langar Cooking"    
+  - url: /assets/album/amritsar/amritsar4/amritsar42.jpg
+    image_path: /assets/album/amritsar/amritsar4/amritsar42.jpg
+    alt: "Langar"
+    title: "Langar"     
+  - url: /assets/album/amritsar/amritsar4/amritsar43.jpg
+    image_path: /assets/album/amritsar/amritsar4/amritsar43.jpg
+    alt: "kadha Prasad"
+    title: "kadha Prasad"    
+  - url: /assets/album/amritsar/amritsar4/IMG_1777.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1777.jpg
+  - url: /assets/album/amritsar/amritsar4/iMG.jpg
+    image_path: /assets/album/amritsar/amritsar4/iMG.jpg
+  - url: /assets/album/amritsar/amritsar4/IMG_1771.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1771.jpg 
+  - url: /assets/album/amritsar/amritsar4/IMG_1802.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1802.jpg 
+  - url: /assets/album/amritsar/amritsar4/IMG_1776.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1776.jpg 
+  - url: /assets/album/amritsar/amritsar4/IMG_1774.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1774.jpg
+  - url: /assets/album/amritsar/amritsar4/IMG_1770.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1770.jpg
+  - url: /assets/album/amritsar/amritsar4/IMG_1769.jpg
+    image_path: /assets/album/amritsar/amritsar4/IMG_1769.jpg 
+gallery5:
+  - url: /assets/album/amritsar/amritsar5/amritsar51.jpg
+    image_path: /assets/album/amritsar/amritsar5/amritsar51.jpg
+    alt: "Amritsari Kulcha"
+    title: "Amritsari Kulcha"     
+  - url: /assets/album/amritsar/amritsar5/amritsar52.jpg
+    image_path: /assets/album/amritsar/amritsar5/amritsar52.jpg
+    alt: "Lassi"
+    title: "Lassi"   
+
+gallery6:
+  - url: /assets/album/amritsar/amritsar6/amritsar61.jpg
+    image_path: /assets/album/amritsar/amritsar6/amritsar61.jpg
+    alt: "Phulkari"
+    title: "Phulkari"   
+  - url: /assets/album/amritsar/amritsar6/amritsar62.jpg
+    image_path: /assets/album/amritsar/amritsar6/amritsar62.jpg
+    alt: "Juttis"
+    title: "Juttis"  
+  - url: /assets/album/amritsar/amritsar6/amritsar63.jpg
+    image_path: /assets/album/amritsar/amritsar6/amritsar63.jpg
+    alt: "Jo bole so nihal"
+    title: "Jo bole so nihal"
+gallery7:
+  - url: /assets/album/amritsar/amritsar7/amritsar71.jpg
+    image_path: /assets/album/amritsar/amritsar7/amritsar71.jpg
+    alt: "Bhangra"
+    title: "Bhangra"
+  - url: /assets/album/amritsar/amritsar7/amritsar72.jpg
+    image_path: /assets/album/amritsar/amritsar7/amritsar72.jpg
+    alt: "Gatka"
+    title: "Gatka"    
+  - url: /assets/album/amritsar/amritsar7/amritsar73.jpg
+    image_path: /assets/album/amritsar/amritsar7/amritsar73.jpg
+    alt: "Gatka"
+    title: "Gatka"  
 ---
 Amritsar is a city I want to speak of today, on the 75th Independence Day as we celebrate ‘Azadi Ka Amrit Mahotsav’. The city exudes ‘Indianness’ in every possible way; historically,geographically, socially, culturally and spiritually. As I go ahead with the list of things to do in Amritsar, slowly the reason will unfold as to why I chose to write about Amritsar today.
 
