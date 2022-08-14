@@ -4,6 +4,7 @@ excerpt: Travel
 tags: Travel
 header:
   overlay_image: /assets/images/amritsar.jpg
+  og_image: /assets/images/amritsar.jpg
   overlay_filter: 0.7
   teaser: /assets/images/amritsar.jpg
 classes: wide
