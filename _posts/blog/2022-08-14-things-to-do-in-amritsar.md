@@ -48,10 +48,7 @@ gallery2:
     image_path: /assets/album/amritsar/amritsar2/amritsar28.jpg
     alt: "Jallianwala-Sardar Udham Singh"
     title: "Jallianwala-Sardar Udham Singh"
-  - url: /assets/album/amritsar/amritsar2/amritsar28.jpg
-    image_path: /assets/album/amritsar/amritsar2/amritsar28.jpg
-    alt: "Jallianwala-Sardar Udham Singh"
-    title: "Jallianwala-Sardar Udham Singh"
+  
   - url: /assets/album/amritsar/amritsar2/amritsar29.jpg
     image_path: /assets/album/amritsar/amritsar2/amritsar29.jpg
     alt: "Flag"
