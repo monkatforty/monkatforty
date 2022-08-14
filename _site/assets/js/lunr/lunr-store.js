@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Growing up with ‘The Adventures of Tintin’",
+        "title": "Growing up with ‘The Adventures of Tintin",
         "excerpt":"I can recall roaming around with Tintin comics since I just started reading. My dad started handing over his Tintin comics set to me since a very early age. I have grown up with Tintin, having read each book numerous times. I cannot figure out an idea of a life...","categories": ["blog"],
         "tags": ["books"],
         "url": "/blog/growing-up-with-the-adventures-of-tintin/",
@@ -33,5 +33,5 @@ var store = [{
         "excerpt":"Amritsar is a city I want to speak of today, on the 75th Independence Day as we celebrate ‘Azadi Ka Amrit Mahotsav’. The city exudes ‘Indianness’ in every possible way; historically,geographically, socially, culturally and spiritually. As I go ahead with the list of things to do in Amritsar, slowly the...","categories": ["blog"],
         "tags": ["Travel"],
         "url": "/blog/things-to-do-in-amritsar/",
-        "teaser": "/assets/images/amritsar.jpg"
+        "teaser": "/assets/images/teaser.jpg"
       }]
