@@ -1,6 +1,6 @@
 ---
 
-title: Growing up with ‘The Adventures of Tintin’
+title: "Growing up with ‘The Adventures of Tintin"
 excerpt: "Books" 
 tags: books
 header:
