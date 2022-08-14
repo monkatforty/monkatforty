@@ -1,0 +1,167 @@
+---
+label: advanced template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: tags
+  label: tags
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: overlay_image
+    label: overlay_image
+  - type: number
+    name: overlay_filter
+    label: overlay_filter
+  - type: file
+    name: teaser
+    label: teaser
+- type: text
+  name: classes
+  label: classes
+- type: boolean
+  name: featured
+  label: featured
+- type: boolean
+  name: comments
+  label: comments
+- type: field_group_list
+  name: gallery1
+  label: gallery1
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: title
+    label: title
+- type: field_group_list
+  name: gallery2
+  label: gallery2
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: title
+    label: title
+- type: field_group_list
+  name: gallery3
+  label: gallery3
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery4
+  label: gallery4
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery5
+  label: gallery5
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery6
+  label: gallery6
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery7
+  label: gallery7
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery8
+  label: gallery8
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery9
+  label: gallery9
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery10
+  label: gallery10
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery11
+  label: gallery11
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+- type: field_group_list
+  name: gallery12
+  label: gallery12
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
