@@ -33,5 +33,5 @@ var store = [{
         "excerpt":"Amritsar is a city I want to speak of today, on the 75th Independence Day as we celebrate ‘Azadi Ka Amrit Mahotsav’. The city exudes ‘Indianness’ in every possible way; historically,geographically, socially, culturally and spiritually. As I go ahead with the list of things to do in Amritsar, slowly the...","categories": ["blog"],
         "tags": ["Travel"],
         "url": "/blog/things-to-do-in-amritsar/",
-        "teaser": "/assets/images/jagannaths-1.jpg"
+        "teaser": "/assets/images/album/amritsar11.jpg"
       }]
