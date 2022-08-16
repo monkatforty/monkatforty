@@ -3,8 +3,12 @@ title: "Things to do in Amritsar"
 excerpt: "Travel"
 tags: Travel
 header:
- teaser: /assets/images/amritsar.jpg
- 
+ overlay_image: /assets/images/jagannaths-1.jpg
+ overlay_filter: 0.7
+ teaser: /assets/images/jagannaths-1.jpg
+  #actions:
+    #- label: "View My Certificate"
+      #url: https://www.credly.com/badges/1d6d5be2-bea5-4cf8-9bb9-de42778f1239/public_url
 
 classes: wide
 featured: false
