@@ -4,7 +4,8 @@ excerpt: "Travel"
 tags: Travel
 header:
  teaser: /assets/images/amritsar.jpg
- header: /assets/images/amritsar.jpg
+ overlay_image: /assets/images/amritsar.jpg
+ overlay_filter: 0.5
  og_image: /assets/images/amritsar.jpg
 classes: wide
 featured: false
