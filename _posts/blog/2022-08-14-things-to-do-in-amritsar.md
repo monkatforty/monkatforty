@@ -3,7 +3,7 @@ title: "Things to do in Amritsar"
 excerpt: "Travel"
 tags: Travel
 header:
- teaser: /assets/images/amritsar.jpg
+ teaser: /assets/images/jagannaths-1.jpg
  overlay_image: /assets/images/jagannaths-1.jpg
  overlay_filter: 0.7
 
